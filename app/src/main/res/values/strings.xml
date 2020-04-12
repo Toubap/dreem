@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DreemTest</string>
+
+    <string name="global_retry">Retry</string>
+
+    <string name="player_error_description">An error occurred while loading the player.\nTry again.</string>
+</resources>

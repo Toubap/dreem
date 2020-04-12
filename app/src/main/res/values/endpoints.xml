@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_service_endpoint" translatable="false">https://dreemtest.s3.us-east-2.amazonaws.com</string>
+</resources>
